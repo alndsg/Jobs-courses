@@ -1,0 +1,9 @@
+married(skjold,gefion).
+married(odin,frigga).
+married(balder,nanna).
+married(od,freya).
+married(aegir,ran).
+married(thor,sif).
+married(loki,sigyn).
+married(bragi,idun).
+married(njord,skadi).
