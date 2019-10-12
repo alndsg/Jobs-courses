@@ -1,3 +1,15 @@
 [submodule "Descendentes"]
 	path = Descendentes
 	url = git@github.com:alndsg/Descendentes.git
+[submodule "completaPalavras"]
+	path = completaPalavras
+	url = git@github.com:alndsg/completaPalavras.git
+[submodule "adiconaEmailCadastro"]
+	path = adiconaEmailCadastro
+	url = git@github.com:alndsg/adiconaEmailCadastro.git
+[submodule "classificadorDeVinhos"]
+	path = classificadorDeVinhos
+	url = git@github.com:alndsg/classificadorDeVinhos.git
+[submodule "chairsandCo"]
+	path = chairsandCo
+	url = git@github.com:alndsg/chairsandCo.git
