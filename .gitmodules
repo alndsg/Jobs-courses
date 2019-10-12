@@ -1,6 +1,3 @@
-[submodule "Descendentes"]
-	path = Descendentes
-	url = git@github.com:alndsg/Descendentes.git
 [submodule "completaPalavras"]
 	path = completaPalavras
 	url = git@github.com:alndsg/completaPalavras.git
