@@ -10,3 +10,6 @@
 [submodule "chairsandCo"]
 	path = chairsandCo
 	url = git@github.com:alndsg/chairsandCo.git
+[submodule "Descendentes"]
+	path = Descendentes
+	url = git@github.com:alndsg/Descendentes.git
