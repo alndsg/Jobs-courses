@@ -7,3 +7,12 @@
 [submodule "mychurchappdev"]
 	path = mychurchappdev
 	url = git@github.com:thiagofsf/mychurchappdev.git
+[submodule "Forward-Chaining-e-Backward-Chaining"]
+	path = Forward-Chaining-e-Backward-Chaining
+	url = git@github.com:alndsg/Forward-Chaining-e-Backward-Chaining.git
+[submodule "Estrategias-de-busca"]
+	path = Estrategias-de-busca
+	url = git@github.com:alndsg/Estrategias-de-busca.git
+[submodule "Machine-Learning"]
+	path = Machine-Learning
+	url = git@github.com:alndsg/Machine-Learning.git
