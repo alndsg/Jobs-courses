@@ -1,18 +1,9 @@
-[submodule "Forward Chaining e Backward Chaining"]
-	path = Forward Chaining e Backward Chaining
-	url = git@github.com:alndsg/Forward-Chaining-e-Backward-Chaining.git
 [submodule "adiconaEmailCadastro"]
 	path = adiconaEmailCadastro
 	url = git@github.com:alndsg/adiconaEmailCadastro.git
-[submodule "classificadorDeVinhos"]
-	path = classificadorDeVinhos
-	url = git@github.com:alndsg/classificadorDeVinhos.git
 [submodule "chairsandCo"]
 	path = chairsandCo
 	url = git@github.com:alndsg/chairsandCo.git
 [submodule "mychurchappdev"]
 	path = mychurchappdev
 	url = git@github.com:thiagofsf/mychurchappdev.git
-[submodule "Descendentes"]
-	path = Descendentes
-	url = git@github.com:alndsg/Descendentes.git
