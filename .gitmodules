@@ -9,7 +9,7 @@
 	url = git@github.com:alndsg/classificadorDeVinhos.git
 [submodule "chairsandCo"]
 	path = chairsandCo
-	url = git@github.com:alndsg/chairsandCo.gitt
+	url = git@github.com:alndsg/chairsandCo.git
 [submodule "mychurchappdev"]
 	path = mychurchappdev
 	url = git@github.com:thiagofsf/mychurchappdev.git
