@@ -13,3 +13,6 @@
 [submodule "mychurchappdev"]
 	path = mychurchappdev
 	url = git@github.com:thiagofsf/mychurchappdev.git
+[submodule "Descendentes"]
+	path = Descendentes
+	url = git@github.com:alndsg/Descendentes.git
