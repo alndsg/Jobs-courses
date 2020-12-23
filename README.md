@@ -1,2 +1,2 @@
-# Trabalhos-Faculdade
-Esta pasta contém os meus trabalhos desenvolvidos durante a faculdade.
+# Jobs-courses
+This project founder contains my courses jobs and a little bit of my expertises.
