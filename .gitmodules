@@ -16,3 +16,6 @@
 [submodule "Machine-Learning"]
 	path = Machine-Learning
 	url = git@github.com:alndsg/Machine-Learning.git
+[submodule "reactive-native-course"]
+	path = reactive-native-course
+	url = https://github.com/alndsg/reactive-native-course.git
